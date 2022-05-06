@@ -29,6 +29,11 @@ In this project the users will be able to;
 
 ![3-column-preview-card-component](challenge-screenshot/Screenshot-3-column-preview-card.png)
 
+### Links
+
+- Solution URL: [See Solution Here](https://github.com/salutDami/3-column-preview-card-component)
+- Live Site URL: [View Live Site Here](https://salutdami.github.io/3-column-preview-card-component/)
+
 ### My Process
 
 ## Built With
