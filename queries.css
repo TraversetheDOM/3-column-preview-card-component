@@ -1,0 +1,210 @@
+/* 1440px for the DESKTOP DESIGN AND BELOW */
+/* @media only screen and (max-width: 90em) {
+  .container {
+    max-width: 144rem;
+    padding: 0 3.2rem;
+  }
+  .card-component-grid {
+    border-radius: 2rem;
+  }
+
+  .primary-header {
+    font-size: 4rem;
+  }
+
+  .text-content {
+    font-size: 2.2rem;
+    line-height: 1.7;
+  }
+} */
+
+@media only screen and (max-width: 64em) {
+  .preview-card-component {
+    height: auto;
+  }
+
+  .sedan-component {
+    padding: 3.8rem;
+  }
+
+  .suv-component {
+    padding: 3.8rem;
+  }
+
+  .luxury-component {
+    padding: 3.8rem;
+  }
+}
+
+@media only screen and (max-width: 54.94rem) {
+  .preview-card-component {
+    padding: 2.5rem;
+    min-height: 100vh;
+  }
+
+  .primary-header {
+    margin-bottom: 2.8rem;
+  }
+
+  .text-content {
+    font-size: 1.8rem;
+    margin-bottom: 2.7rem;
+  }
+
+  .card-component-grid {
+    grid-template-columns: 1fr;
+    border-radius: 1rem;
+  }
+
+  .btn:link,
+  .btn:visited {
+    display: inline-block;
+    background-color: #f2f2f2;
+    text-decoration: none;
+    padding: 1rem 2rem;
+    font-family: "Lexend Deca", sans-serif;
+    font-weight: 500;
+    font-size: 1.8rem;
+    border-radius: 5rem;
+    transition: all 0.3s;
+  }
+
+  .btn--sedan:link,
+  .btn--sedan:visited {
+    color: #e38826;
+  }
+
+  .btn--suvs:link,
+  .btn--suvs:visited {
+    color: #006970;
+  }
+
+  .btn--luxury:link,
+  .btn--luxury:visited {
+    color: #002827;
+  }
+
+  .btn:hover,
+  .btn:active {
+    cursor: pointer;
+    color: #f2f2f2;
+    /* border: 1px solid #f2f2f2; */
+    box-shadow: inset 0 0 0 2px #f2f2f2;
+    -webkit-box-shadow: inset 0 0 0 2px #f2f2f2;
+  }
+
+  .btn--sedan:hover,
+  .btn--sedan:active {
+    background-color: #e38826;
+  }
+
+  .btn--suvs:hover,
+  .btn--suvs:active {
+    background-color: #006970;
+  }
+
+  .btn--luxury:hover,
+  .btn--luxury:active {
+    background-color: #004241;
+  }
+
+  /* 375px for the MOBILE DESIGN AND BELOW */
+  @media only screen and (max-width: 23.44em) {
+    .container {
+      max-width: 100rem;
+      margin: 0 auto;
+    }
+
+    ::-webkit-scrollbar {
+      height: 1rem;
+      width: 1.5rem;
+    }
+
+    ::-webkit-scrollbar-track {
+      background-color: white;
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background-color: #f2f2f2;
+      border: 2px solid white;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+      background-color: hsl(219, 10%, 60%, 0.5);
+    }
+
+    .preview-card-component {
+      padding: 4rem 2rem;
+      min-height: 100vh;
+    }
+  }
+
+  .card-component-grid {
+    grid-template-columns: 1fr;
+    border-radius: 0.8rem;
+    justify-content: center;
+  }
+
+  .primary-header {
+    margin-bottom: 2rem;
+  }
+
+  .text-content {
+    font-size: 1.2rem;
+    margin-bottom: 1.9rem;
+  }
+
+  .sedan-component,
+  .suv-component,
+  .luxury-component {
+    padding: 4rem;
+  }
+
+  .btn:link,
+  .btn:visited {
+    font-size: 1.2rem;
+    padding: 0.8rem 1.6rem;
+  }
+
+  .img-svg {
+    margin-bottom: 2.4rem;
+  }
+}
+
+@media only screen and (max-width: 17.5em) {
+  /* .container {
+    padding: 0 1.8rem;
+  } */
+
+  .preview-card-component {
+    padding: 3rem;
+    min-height: 100vh;
+  }
+
+  .primary-header {
+    margin-bottom: 1.8rem;
+    font-size: 2rem;
+  }
+
+  .text-content {
+    font-size: 1rem;
+    margin-bottom: 1.6rem;
+  }
+
+  .sedan-component,
+  .suv-component,
+  .luxury-component {
+    padding: 2rem;
+  }
+
+  .img-svg {
+    width: 4.8rem;
+    margin-bottom: 2rem;
+  }
+
+  .btn:link,
+  .btn:visited {
+    font-size: 1rem;
+    padding: 0.6rem 1.2rem;
+  }
+}
