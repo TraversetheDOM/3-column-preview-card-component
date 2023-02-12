@@ -31,8 +31,8 @@ In this project the users will be able to;
 
 ### Links
 
-- Solution URL: [See Solution Here](https://github.com/salutDami/3-column-preview-card-component)
-- Live Site URL: [View Live Site Here](https://salutdami.github.io/3-column-preview-card-component/)
+- Solution URL: [See Solution Here](https://github.com/TraversetheDOM/3-column-preview-card-component)
+- Live Site URL: [View Live Site Here](https://TraversetheDOM.github.io/3-column-preview-card-component/)
 
 ### My Process
 
