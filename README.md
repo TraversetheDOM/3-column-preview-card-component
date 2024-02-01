@@ -31,8 +31,8 @@ In this project the users will be able to;
 
 ### Links
 
-- Solution URL: [See Solution Here](https://github.com/TraversetheDOM/3-column-preview-card-component)
-- Live Site URL: [View Live Site Here](https://TraversetheDOM.github.io/3-column-preview-card-component/)
+- Solution URL: [See Solution Here](https://github.com/stephenikuomola/3-column-preview-card-component)
+- Live Site URL: [View Live Site Here](https://stephenikuomola.github.io/3-column-preview-card-component/)
 
 ### My Process
 
@@ -83,6 +83,6 @@ For my continued Development I would definitely love to learn to make more layou
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/_salutDami)
-- Twitter - [@\_salutDami](https://www.twitter.com/_salutDami)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/stephenikuomola)
+- Twitter - [@\_salutDami](https://www.twitter.com/stephenikuomola)
 - Linkedin - [Ikuomola Stephen](https://www.linkedin.com/in/Ikuomola-Stephen/)
